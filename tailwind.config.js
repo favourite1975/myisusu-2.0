@@ -53,6 +53,7 @@ module.exports = {
         bgstart: '#B1BAD4',
         bgstartone: '#BDE2FA',
         bgcontribute: '#95953F',
+        bgblog:'#2114b5'
       },
       screens: {
         xm: '481px',

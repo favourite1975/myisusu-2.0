@@ -1,11 +1,13 @@
-import { BsChevronDown } from "react-icons/bs"
+import React from "react";
+import { BsChevronDown } from "react-icons/bs";
 
-export const navList = [
-    {
+
+ export const navList =  [
+     {
         id: 1,
         name: "Products",
         path: "/products",
-        icons: <BsChevronDown />
+        icons: <BsChevronDown/>
     },
     {
         id: 2,

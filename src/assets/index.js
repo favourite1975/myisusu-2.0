@@ -20,6 +20,9 @@ import clusterone from "./clusterone.png";
 import clustertwo from "./clustertwo.png";
 import googleSignin from "./googleSignin.png";
 import signupGoody from "./signupGoody.png";
+import eventimg from "./eventimg.png";
+import successful from "./successful.png"
+import blogimg from "./blogimg.png"
 
 export {
   frameone,
@@ -44,4 +47,7 @@ export {
   clustertwo,
   googleSignin,
   signupGoody,
+  eventimg,
+  successful,
+  blogimg,
 };

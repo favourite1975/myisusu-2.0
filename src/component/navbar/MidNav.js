@@ -4,8 +4,6 @@ import { navList } from "./navList";
 
 const MidNav = ({ signUp, login}) => {
 
-  
-
   return (
     <>
       <div className="items-center gap-5 hidden sm:flex">
